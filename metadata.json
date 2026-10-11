@@ -1,0 +1,6 @@
+{
+  "name": "PropMarty",
+  "description": "Real estate property field data collection web app for teams",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
